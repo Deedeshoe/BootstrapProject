@@ -143,14 +143,14 @@ button{font-family: chillax-medium;
 
  /* Contact Us yacho */
 
-.contactus{ text-align: center;
+.contactus{ text-align: center; 
             color: #2c3e50; 
             margin-top: 30px;
             height: 100vh; 
 
 }
 
-.contactus input{ font-family: chillax-medium; 
+.contactus input{ font-family: chillax-medium; outline: 0px;
                   margin-top: 20px;
                   padding: 30px;
                   padding-left: 0px;
@@ -172,6 +172,7 @@ button{font-family: chillax-medium;
                   width: 600px;
                   padding-bottom: 80px;
                   border-bottom: 1px solid #ccc;
+                  outline: 0px;
                 }
 
 
